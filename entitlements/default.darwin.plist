@@ -16,5 +16,9 @@
     <true/>
     <key>com.apple.security.personal-information.location</key>
     <true/>
+    <key>com.apple.security.files.absolute-path.read-write</key>
+    <true/>
+    <key>com.apple.security.automation.apple-events</key>
+    <true/>
   </dict>
 </plist>
